@@ -4,6 +4,33 @@
 # Taijutsu
 
 ## [USAF Test requirements](./2026%20USAF.test.req.pdf)
+
+## Test requirement local clarifications
+
+### 4th Kyu
+
+- Tsuki Iriminage 
+  - Irimi Opening (omote & ura)
+  - Tenshin Opening (omote & ura)
+  - Those minimally, can add other known variations like "direct entry" after.
+
+### 3rd Kyu
+
+- Yokumenuchi Iriminage
+  - Irimi Opening (omote & ura) - Deep entry with extension, break-away elbow with control. [Yamada on Youtube](https://youtu.be/9hWRq9jRxsU?t=3011)
+  - Tenshin  Opening (omote & ura) - Either cut down and re-enter or Nikkyo-style hand grip. [example of cut down - yamada](https://youtu.be/9hWRq9jRxsU?t=2734)
+  - Those minimally, can add other known variations after.
+- Morotetori Iriminage
+  - High to low - Start High, cut down follow path into iriminage - [Yamada](https://youtu.be/9hWRq9jRxsU?t=3660)
+  - Low to High - [Yamada on youtube](https://youtu.be/9hWRq9jRxsU?t=3790) 
+- Suwari Waza Shomenuchi Iriminage
+  - Ideally omote & ura
+
+### 2nd Kyu
+
+- Ushiro Kubishime Koshinage - Ideally more than one way
+- Hanmi Handachi Shomenuchi Iriminage - Ideally omote & ura
+
 # Weapons
 
 Most of the weapons curriculum is based on Iwama-style foundations.
