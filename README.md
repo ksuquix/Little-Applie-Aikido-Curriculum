@@ -50,25 +50,27 @@ Sword movement is highly influenced by Seishinkan Iaido standards.
 ## Additional Weapons Testing
 
 ### 5th Kyu
-#### Bokken:
-- Hold with Blade up on left thumb at 1:00
-- Bowing in (sitting and standing)
-- Chudan kamae
-- Shomen (kirioroshi), 
-- Hanmi ha direction (demonstrate with Tsuki)
-#### Jo:
-- Bowing
-- Normal start position
-- Tsuki No Bu 1-2
-- Block
-- Shomen
-- Yokumen
+- Bokken:
+  - Hold with Blade up on left thumb at 1:00
+  - Bowing in (sitting and standing)
+  - Chudan kamae
+  - Shomen (kirioroshi), 
+  - Hanmi ha direction (demonstrate with Tsuki)
+- Jo:
+  - Bowing
+  - Normal start position
+  - Tsuki No Bu 1-2
+  - Block
+  - Shomen
+  - Yokumen
+
 ### 4th Kyu
 - Jo Tsuki no bu
 - 31 Jo - first 12 movements
 - Jo Awase \#1-3
 - Ken Suburi (7)
 - Happo Giri
+
 ### 3rd Kyu
 - 31 Jo Kata
 - Jo Awase (8)
@@ -81,15 +83,19 @@ Sword movement is highly influenced by Seishinkan Iaido standards.
 - [Simple Text List w/ translation](./Jo%20Suburi%20(20))
 - [Saito on Youtube](https://www.youtube.com/watch?v=O9U04EU_Qp8)
 - [H Saito on Youtube](https://www.youtube.com/watch?v=y6FpPppF7gE)
+
 ### Happo Giri - 8 Direction Cut 
 - [Saito on Youtube](https://www.youtube.com/watch?v=eIVQvxyk_2Q)
+
 ### Jo Awase (8)
 - [Attempt at text description](./Jo%20Awase%20(8))
 - [Kobayashi on Youtube](https://www.youtube.com/watch?v=UUmAr0yFbmw)
+
 ### 31 Jo Kata
 - [Saito on Youtube](https://www.youtube.com/watch?v=4jm7x9dOzn4)
 - [Detailed Text Description](31CountJo-27Dec06.pdf)
 - [Quick text (is this helpful?)](./31%20Jo)
+
 ### Ken Suburi (7)
 - [Saito on Youtube](https://www.youtube.com/watch?v=9h3z8bnEuws)
 
