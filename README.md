@@ -6,16 +6,16 @@
 
 ## [USAF Test requirements](./2026%20USAF.test.req.pdf)
 
-## Test requirement local clarifications
+### USAF Test requirement local clarifications
 
-### 4th Kyu
+#### 4th Kyu
 
 - Tsuki Iriminage 
   - Irimi Opening (omote & ura)
   - Tenshin Opening (omote & ura)
   - Those minimally, can add other known variations like "direct entry" after.
 
-### 3rd Kyu
+#### 3rd Kyu
 
 - Yokumenuchi Iriminage
   - Irimi Opening (omote & ura) - Deep entry with extension, break-away elbow with control. [Yamada on Youtube](https://youtu.be/9hWRq9jRxsU?t=3011)
@@ -27,7 +27,7 @@
 - Suwari Waza Shomenuchi Iriminage
   - Ideally omote & ura
 
-### 2nd Kyu
+#### 2nd Kyu
 
 - Ushiro Kubishime Koshinage - Ideally more than one way
 - Hanmi Handachi Shomenuchi Iriminage - Ideally omote & ura
@@ -39,12 +39,14 @@ Sword movement is highly influenced by Seishinkan Iaido standards.
 
 ## Active study:
 
-| Jo Suburi (20) - Saito  <br>Jo Awase (8) - Saito via Kobayashi  <br>31 Jo Kata - Saito | Ken Suburi (7) - Saito  <br>Happo Giri - Saito<br>Ken Partner Blocking exercise - Hayes?  <br>Ken Connection - East Coast USAF I think |
-| -------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
-## To Consider:
+- Jo Suburi (20) - Saito  
+- Jo Awase (8) - Saito via Kobayashi 
+- 31 Jo Kata - Saito 
+- Ken Suburi (7) - Saito  
+- Happo Giri - Saito
+- Ken Partner Blocking exercise - Hayes?  
+- Ken Connection - East Coast USAF I think
 
-| 6 Jo Kata  <br>13 Jo Kata  <br>Kumijo (10)  <br>13 Kumijo  <br>31 Kumijo | Ken awase (4)  <br>Kumitachi (6)  <br>Kumijo (10)  <br>Ken Tai Jo Barai (3)  <br>Kumi Tachi Henka (7)  <br>Ken Tai jo (7) Henka (5)  <br>Ken tai riai: shiho nage; kotegaishi | Kanai kumitachi: https://youtu.be/Qpx6dIaLhlc?si=Wyrv8M6OZPcg6K_J<br>Ken blocking exercise<br>Ken connection exercise |
-| ------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
 ## Additional Weapons Testing
 
 ### 5th Kyu
@@ -90,3 +92,20 @@ Sword movement is highly influenced by Seishinkan Iaido standards.
 - [Quick text (is this helpful?)](./31%20Jo)
 ### Ken Suburi (7)
 - [Saito on Youtube](https://www.youtube.com/watch?v=9h3z8bnEuws)
+
+## Additional Weapons to consider
+
+- 6 Jo Kata  
+- 13 Jo Kata  
+- Kumijo (10)  
+- 13 Kumijo  
+- 31 Kumijo 
+- Ken awase (4)  
+- Kumitachi (6)  
+- Kumijo (10)  
+- Ken Tai Jo Barai (3)  
+- Kumi Tachi Henka (7)  
+- Ken Tai jo (7) Henka (5) 
+- Ken tai riai: shiho nage; kotegaishi
+- Kanai kumitachi: https://youtu.be/Qpx6dIaLhlc?si=Wyrv8M6OZPcg6K_J
+
