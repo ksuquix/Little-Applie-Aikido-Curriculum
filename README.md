@@ -76,6 +76,7 @@ Sword movement is highly influenced by Seishinkan Iaido standards.
 - Jo Awase (8)
 - Jo kihon (20)
 - Ken TBD - possibly Ken Awase (7)
+- Ken more - probably some awase from Vu
 
 ## Weapons Explanations
 
