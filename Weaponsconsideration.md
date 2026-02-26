@@ -38,3 +38,10 @@
 - sugano memorial https://www.youtube.com/watch?v=vUwl3Jt087g
 - sugano jo 25 https://www.youtube.com/watch?v=Ch8lhwDm4_k
 - sugano sword system trailer https://www.youtube.com/watch?v=r8m-xbOB0G0
+- waite ken tai jo https://www.youtube.com/watch?v=CJuCwhVZnvM
+- https://www.youtube.com/watch?v=ctVIhWuxVfc
+- waite bokken class https://www.youtube.com/watch?v=H25hahSceKI
+- waite suburi https://www.youtube.com/watch?v=MI4AHpcXXQs
+- chiarolanzio bokken bokken form 5 https://www.youtube.com/watch?v=BqhRyY4uAvo
+- ch b b 1 https://www.youtube.com/watch?v=eHMyCfViGAA
+- ch full https://www.youtube.com/watch?v=Fl-qkHroOWo&list=PLnrR_nVqPPi8vTsGLk0s6u2k5jhIGELog
