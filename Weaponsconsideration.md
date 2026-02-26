@@ -33,4 +33,8 @@
   - forward block https://youtu.be/fvz2Ado7XzI?t=329
   - duck under as awase https://youtu.be/fvz2Ado7XzI?t=449
 - sugano style san no ken https://www.youtube.com/watch?v=4SFfKIN0-VA
-
+- sugano kata https://www.youtube.com/watch?v=rWhd6pigeaQ
+- sugano ni no ken https://www.youtube.com/watch?v=C2Fdk5RaYnY
+- sugano memorial https://www.youtube.com/watch?v=vUwl3Jt087g
+- sugano jo 25 https://www.youtube.com/watch?v=Ch8lhwDm4_k
+- sugano sword system trailer https://www.youtube.com/watch?v=r8m-xbOB0G0
