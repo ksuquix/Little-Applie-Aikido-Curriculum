@@ -1,0 +1,36 @@
+# Weapon work to consider
+
+- 6 Jo Kata  
+- 13 Jo Kata  
+- Kumijo (10)  
+- 13 Kumijo  
+- 31 Kumijo 
+- Ken awase (4)  
+- Kumitachi (6)  
+- Kumijo (10)  
+- Ken Tai Jo Barai (3)  
+- Kumi Tachi Henka (7)  
+- Ken Tai jo (7) Henka (5) 
+- Ken tai riai: shiho nage; kotegaishi
+- Kanai kumitachi: https://youtu.be/Qpx6dIaLhlc?si=Wyrv8M6OZPcg6K_J
+- Vu weapons at winter camp (different take on warmup/suburi) https://www.youtube.com/watch?v=tkvcys4ReVI
+  - suiyake nen?   looks like a kumitachi
+  - awase - up blending deflect https://youtu.be/tkvcys4ReVI?t=197
+    - up blend awase continuous https://youtu.be/tkvcys4ReVI?t=249
+  - push thrust awase with fadeaway cut https://youtu.be/tkvcys4ReVI?t=307
+    - then catch  https://youtu.be/tkvcys4ReVI?t=391
+    - add another step https://youtu.be/tkvcys4ReVI?t=454
+  - up blend 2 step upcut block https://youtu.be/tkvcys4ReVI?t=533
+    - peter doing a piece of this https://www.youtube.com/watch?v=kVzoEvWcmhQ
+    - response is hasso block https://youtu.be/tkvcys4ReVI?t=611
+    - re-response https://youtu.be/tkvcys4ReVI?t=678
+  - push thrust added at end of last https://youtu.be/tkvcys4ReVI?t=769
+  - partial, maybe different (kristen in background?) https://www.youtube.com/watch?v=uxZOSNsoipA
+- Ken tai jo  bertiome https://www.youtube.com/shorts/fAbP0B0dsDI
+- jo - vu https://www.youtube.com/watch?v=1GbT848jrgk
+- ken vu 2022 https://www.youtube.com/watch?v=fvz2Ado7XzI
+  - awase https://youtu.be/fvz2Ado7XzI?t=210
+  - forward block https://youtu.be/fvz2Ado7XzI?t=329
+  - duck under as awase https://youtu.be/fvz2Ado7XzI?t=449
+- sugano style san no ken https://www.youtube.com/watch?v=4SFfKIN0-VA
+

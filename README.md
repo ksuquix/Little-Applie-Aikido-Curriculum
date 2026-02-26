@@ -75,7 +75,7 @@ Sword movement is highly influenced by Seishinkan Iaido standards.
 - 31 Jo Kata
 - Jo Awase (8)
 - Jo kihon (20)
-- Ken TBD
+- Ken TBD - possibly Ken Awase (7)
 
 ## Weapons Explanations
 
@@ -99,19 +99,8 @@ Sword movement is highly influenced by Seishinkan Iaido standards.
 ### Ken Suburi (7)
 - [Saito on Youtube](https://www.youtube.com/watch?v=9h3z8bnEuws)
 
-## Additional Weapons to consider
+### Ken Awase (7)
+- [Kobayashi on Youtube](https://www.youtube.com/watch?v=FJBebwFJHgw)
+- [bigrock aikikai - good slow explanation](https://www.youtube.com/watch?v=jfYRauOPV4k)
 
-- 6 Jo Kata  
-- 13 Jo Kata  
-- Kumijo (10)  
-- 13 Kumijo  
-- 31 Kumijo 
-- Ken awase (4)  
-- Kumitachi (6)  
-- Kumijo (10)  
-- Ken Tai Jo Barai (3)  
-- Kumi Tachi Henka (7)  
-- Ken Tai jo (7) Henka (5) 
-- Ken tai riai: shiho nage; kotegaishi
-- Kanai kumitachi: https://youtu.be/Qpx6dIaLhlc?si=Wyrv8M6OZPcg6K_J
-
+## [Additional Weapons to consider](./Weaponsconsideration)
