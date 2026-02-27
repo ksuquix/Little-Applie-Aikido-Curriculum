@@ -6,8 +6,9 @@ Uchitachi (打太刀) is the senior "teaching" role in Kendo Kata. The uchitachi
 2. Uchitachi prepares tsugi-ashi Tsuki, pushing shitachi's sword offline.  Shitachi steps tenshin, raising sword.  Uchitachi returns to original chudan-no-kamae.  Shitachi steps around and does large yokomen to wrist.
 3. Start as (1). Shitachi lets Uchitachi raise sword (or uchitachi responds quickly) stepping back, but matches movement sliding in with Tsuki to neck.
 4.  Both raise, meet in cut together.   Uchitachi pushes Shitachi's sword, but shitachi slips around and does Tsuki while hiraki-ashi to outside.
-5. Uchitachi prepares tsugi-ashi shomenuchi.  Shitachi does fadeaway block, steps around in yokomen to outside wrist.  Uchitachi raises, stepping back.  Shitachi enters, cutting wrist from below.
-TODO HERE
+5. Uchitachi prepares tsugi-ashi shomenuchi.  Shitachi does fadeaway block, steps around in yokomen to outside wrist.  Uchitachi raises (either quickly or after Shitachi catches and releases wrist), stepping back.  Shitachi enters, cutting wrist from below.
+6. Start as (1).  Uchitachi raises sword for another cut. Shitachi begins tsuki movement as in (3), but finishes by performing (5) instead. 
+7. Uchitachi preparse tsuki-ashi shomenuchi.  Shitachi enters with tsuki toward neck, performs fadeaway block, hiraki-ashi yokomenuchi to neck.
 
 Footwork:
 
