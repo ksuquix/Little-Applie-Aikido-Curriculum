@@ -1,4 +1,4 @@
-Jo Suburi Text
+# Jo Suburi Text
 
 | **Tsuki No Bu**     | **Thrusting Series**        |
 | -------------------------- | -------------------------------- |
