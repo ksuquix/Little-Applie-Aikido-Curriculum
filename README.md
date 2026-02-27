@@ -8,12 +8,41 @@
 
 ### USAF Test requirement local clarifications
 
+#### 6th Kyu
+
+- Shikko
+  - Forward required
+  - Backward - highly encouraged
+- Funakogi undo
+  - Can be silent or with the sounds
+- Irimi (2 ways)
+  - Okuri-ashi (slide)
+  - Ayumi-ashi (step)
+- Yokumenuchi
+  - Take care to pivot back foot offline
+- Tai no henko
+  - Use funakogi undo, not upper body/arm strength
+- Kokyudosa
+  - Start Seiza (non-active toes)
+  - End Kiza (active toes)
+
+#### 5th Kyu
+
+- Shomenuchi Iriminage & Tsuki Kotegaeshi
+  - Ura only
+- Ushiro Tekubitory Kotegaeshi
+  - Dynamic opening highly encouraged
+
 #### 4th Kyu
 
+- Shomenuchi Nikyo
+  - good projection on initial opening, resulting in smooth wrist transition preferred
 - Tsuki Iriminage 
   - Irimi Opening (omote & ura)
   - Tenshin Opening (omote & ura)
   - Those minimally, can add other known variations like "direct entry" after.
+- Both omote Sankyo's
+  - prefer constant pressure forward with smooth transition instead of a stop with shoulder block
 
 #### 3rd Kyu
 
@@ -26,6 +55,8 @@
   - Low to High - [Yamada on youtube](https://youtu.be/9hWRq9jRxsU?t=3790) 
 - Suwari Waza Shomenuchi Iriminage
   - Ideally omote & ura
+- Hanmi Handachi Kaitennage
+  - Cut uke all the way down, and through the ankle
 
 #### 2nd Kyu
 
