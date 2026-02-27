@@ -203,3 +203,18 @@
 | Sumiotoshi          | 隅落とし             | “Corner throw.”                                                                                                        |
 | Tenchinage          | 天地投げ             | “Heaven and earth throw.”                                                                                              |
 | Yonkyō              | 四教               | “Fourth teaching.”                                                                                                     |
+
+
+Footwork:
+
+Suri-ashi (Sliding Feet): The foundation of all kendo, where feet slide across the floor without lifting to maintain constant contact, reducing friction and enabling fast movement.
+
+Slide: Okuri-ashi (Trailing Foot): The standard, most used movement. Move the right foot forward (or backward), then quickly bring the left foot up to match, maintaining the initial distance between feet.
+
+Tsugi-ashi (Subsequent Foot): A, step used to close distance. The left foot moves up to touch or pass the right foot before the right foot moves again to strike.
+
+Hiraki-ashi (Diagonal/Open Foot): A movement to evade or create angles, where you move diagonally to the right or left, often with a slight pivot.
+
+Step: Ayumi-ashi (Walking Feet): A natural walking movement used for traversing longer distances quickly, rarely used in close combat. 
+
+https://youtu.be/_xBTxbuDtvA

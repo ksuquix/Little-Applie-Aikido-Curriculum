@@ -76,7 +76,7 @@ Sword movement is highly influenced by Seishinkan Iaido standards.
 - Jo Awase (8)
 - Jo kihon (20)
 - Ken TBD - possibly Ken Awase (7)
-- Ken more - probably some awase from Vu
+- Ken more - probably some awase from Vu 
 
 ## Weapons Explanations
 
@@ -103,5 +103,8 @@ Sword movement is highly influenced by Seishinkan Iaido standards.
 ### Ken Awase (7)
 - [Kobayashi on Youtube](https://www.youtube.com/watch?v=FJBebwFJHgw)
 - [bigrock aikikai - good slow explanation](https://www.youtube.com/watch?v=jfYRauOPV4k)
+- [Text description](./Ken%20Awase%20(7))
 
 ## [Additional Weapons to consider](./Weaponsconsideration)
+
+## [Glossary](./Glossary)

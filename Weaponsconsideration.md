@@ -45,3 +45,5 @@
 - chiarolanzio bokken bokken form 5 https://www.youtube.com/watch?v=BqhRyY4uAvo
 - ch b b 1 https://www.youtube.com/watch?v=eHMyCfViGAA
 - ch full https://www.youtube.com/watch?v=Fl-qkHroOWo&list=PLnrR_nVqPPi8vTsGLk0s6u2k5jhIGELog
+- bokken basics (very standard aikido style) https://www.youtube.com/watch?v=ZiZzzkh4lIU
+- gonzalez https://www.youtube.com/watch?v=xS34NH0vy1U
