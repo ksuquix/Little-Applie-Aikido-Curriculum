@@ -28,9 +28,9 @@ github_username:  ksuquix
 
 # Build settings
 #theme: minima
-plugins:
-  - jekyll-feed
-  - jekyll-theme-cayman
+#plugins:
+#  - jekyll-feed
+#  - jekyll-theme-cayman
 
 theme: jekyll-theme-cayman
 show_downloads: false
