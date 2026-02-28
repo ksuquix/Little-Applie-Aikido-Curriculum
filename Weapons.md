@@ -1,7 +1,7 @@
 # Weapons Study list and Testing Requirements (In addition to USAF)
 
-Most of the weapons curriculum is based on Iwama-style foundations.
-Sword movement is highly influenced by Seishinkan Iaido standards.
+- Most of the weapons curriculum is based on Iwama-style foundations.
+- Sword mechanics are highly influenced by Seishinkan Iaido standards.
 
 ## Active study:
 
@@ -10,8 +10,11 @@ Sword movement is highly influenced by Seishinkan Iaido standards.
 - 31 Jo Kata - Saito 
 - Ken Suburi (7) - Saito  
 - Happo Giri - Saito
-- Ken Partner Blocking exercise - Hayes?  
-- Ken Connection - East Coast USAF I think
+- Ken Awase (7) - Saito
+- Shin Ken Awase (?) - USAF via Vu
+    - Ken Partner Blocking exercise - USAF via Hayes
+    - Ken Connection - USAF via Hayes
+    - I've only seen most of this content from Vu at seminars.  I believe the exercises were Hayes Sensei breaking the larger piece down for us.  I plan on doing similar and making several smaller Awase from Vu's seminar video.
 
 ## Additional Weapons Testing
 
@@ -41,5 +44,5 @@ Sword movement is highly influenced by Seishinkan Iaido standards.
 - 31 Jo Kata
 - Jo Awase (8)
 - Jo kihon (20)
-- Ken TBD - possibly Ken Awase (7)
-- Ken more - probably some awase from Vu 
+- Ken Awase (7)
+- Shin Ken Awase (?) - not developed yet
