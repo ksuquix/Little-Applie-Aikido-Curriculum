@@ -47,3 +47,4 @@
 - ch full https://www.youtube.com/watch?v=Fl-qkHroOWo&list=PLnrR_nVqPPi8vTsGLk0s6u2k5jhIGELog
 - bokken basics (very standard aikido style) https://www.youtube.com/watch?v=ZiZzzkh4lIU
 - gonzalez https://www.youtube.com/watch?v=xS34NH0vy1U
+- footwork https://youtu.be/_xBTxbuDtvA

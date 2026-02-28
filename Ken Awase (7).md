@@ -1,6 +1,8 @@
 # Ken Awase (Saito / Kobayashi)
 
-Uchitachi (打太刀) is the senior "teaching" role in Kendo Kata. The uchitachi initiates all movements, controls the distance (maai), and sets the timing for the student, or shitachi/uketachi (仕太刀). 
+Uchitachi (打太刀 - Sword Attacker) initiates movements.  Instead of just receiving attacks (Uke) in grappling, this role is to provide a well placed guided attach to help teach the partner.
+
+Shitachi/uketachi (仕太刀 - Sword performer/receiver) performs technique. 
 
 1. Uchitachi prepares tsugi-ashi tsuki.  Shitachi responds with hiraki-ashi to the Uchitachi's inside, and shomenuchi to Uchitachi's wrist.
 2. Uchitachi prepares tsugi-ashi Tsuki, pushing shitachi's sword offline.  Shitachi steps tenshin, raising sword.  Uchitachi returns to original chudan-no-kamae.  Shitachi steps around and does large yokomen to wrist.
