@@ -1,8 +1,6 @@
-# Top
-
- (under construction)
-
- View with: [https://ksuquix.github.io/Little-Apple-Aikido-Curriculum/](https://ksuquix.github.io/Little-Apple-Aikido-Curriculum/)
+{% comment %}
+If you can see this, use this URL to access this content: https://ksuquix.github.io/Little-Apple-Aikido-Curriculum/
+{% endcomment %}
 
 # Taijutsu
 
